@@ -7,12 +7,28 @@
 </div>
   <br>
 <div style="display: inline_block">
-	<img align="center" alt="Alex-Node" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">
-	<img align="center" alt="Alex-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Alex-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-  <img align="center" alt="Alex-TailwindCSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-plain.svg">
-  <img align="center" alt="Alex-csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
-  <img align="center" alt="Alex-csharp" height="45" width="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rust/rust-plain.svg">
+	<img align="center" alt="TypeScript" height="30" width="40" src='https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg'>
+	<img align="center" alt="JavaScript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+	<img align="center" alt="TypeScript" height="30" width="40" src='https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg'>
+	<img align="center" alt="NestJs" height="30" width="40" src='https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/flask/flask-original.svg'>
+	<img align="center" alt="NestJs" height="30" width="40" src='https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/django/django-plain.svg'>
+	<img align="center" alt="NodeJs" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">
+	<img align="center" alt="NestJs" height="30" width="40" src='https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nestjs/nestjs-original.svg'>
+	<img align="center" alt="NestJs" height="30" width="40" src='https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg'>
+	<img align="center" alt="NestJs" height="30" width="40" src='https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg'>
+	<img align="center" alt="ReactJs" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
+	<img align="center" alt="NextJs" height="30" width="40" src='https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg'>
+	<img align="center" alt="NextJs" height="30" width="40" src='https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/angular/angular-original.svg'>
+	<img align="center" alt="TailwindCSS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg">
+	<img align="center" alt="TailwindCSS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sass/sass-original.svg">
+	<img align="center" alt="MySQL" height="30" width="40" src='https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg'>
+ 	<img align="center" alt="PostgreSQL" height="30" width="40" src='https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg'>
+  	<img align="center" alt="MongoDB" height="30" width="40" src='https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original.svg'>
+   	<img align="center" alt="NestJs" height="30" width="40" src='https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/prisma/prisma-original.svg'>
+   	<img align="center" alt="NestJs" height="30" width="40" src='https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/graphql/graphql-plain.svg'>
+   	<img align="center" alt="NestJs" height="30" width="40" src='https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg'>
+   	<img align="center" alt="NestJs" height="30" width="40" src='https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg'>
+	
 </div>
   
   ##
