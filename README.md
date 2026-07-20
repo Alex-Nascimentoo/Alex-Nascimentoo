@@ -10,6 +10,7 @@
 	<img align="center" alt="TypeScript" height="30" width="40" src='https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg'>
 	<img align="center" alt="JavaScript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
 	<img align="center" alt="TypeScript" height="30" width="40" src='https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg'>
+	<img align="center" alt="GoLang" height="30" width="40" src='https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/go/go-original.svg'>
 	<img align="center" alt="NestJs" height="30" width="40" src='https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/flask/flask-original.svg'>
 	<img align="center" alt="NestJs" height="30" width="40" src='https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/django/django-plain.svg'>
 	<img align="center" alt="NodeJs" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">
